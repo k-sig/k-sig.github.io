@@ -5,23 +5,19 @@ permalink: /
 ---
 
 # K_sig
+----------------
+BRIEF DESCRIPTION
 
-<div style="margin-top: 20px;">
-BRIEF DESCRIPTION 
 
 # Our Strategies
+----------------
 ## Strategy 1
-BRIEF DESCRIPTION 
+BRIEF DESCRIPTION
 
 ## Strategy 2
-BRIEF DESCRIPTION 
-
-...
+BRIEF DESCRIPTION
 
 # Our Culture
-BRIEF DESCRIPTION 
+BRIEF DESCRIPTION
 
 
-
-
-</div>
