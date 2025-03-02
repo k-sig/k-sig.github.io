@@ -25,7 +25,6 @@ Joining K_sig offers unparalleled exposure to the **modern quantitative investme
 
 ## Explore More
 
-🔹 [About Us](/about/) – Learn more about our philosophy and mission.  
 🔹 [Our Strategies](/Our%20Strategies/) – Explore the quantitative strategies we develop.  
 🔹 [Join Us](https://docs.google.com/forms/d/e/1FAIpQLSfk0SBYgG9aHVqpc-P3FbnJLEbc1jalYTA4s8f5S4uMc6olZQ/viewform?usp=dialog) – Discover how you can become part of K_sig.
 
