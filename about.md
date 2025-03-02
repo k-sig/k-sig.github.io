@@ -5,8 +5,6 @@ permalink: /about/
 ---
 # About Us
 
-# K_sig: Systematic Investing at Columbia
-
 Welcome to **K_sig**, Columbia University’s premier **Systematic Investing** club. We are a collective of **mathematicians, statisticians, computer scientists, economists, and investors** united by an insatiable curiosity for **quantitative finance** and a commitment to **empirically driven strategies**. Our mission is to **push the frontier of systematic investing** through rigorous research, innovative modeling, and real-world implementation.
 
 ## Our Approach
